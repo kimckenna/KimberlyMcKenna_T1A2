@@ -156,20 +156,19 @@ h1 {
   margin: 0px;
   display: flex;
   flex-wrap: wrap;
-  flex-direction: row;
   list-style-type: none;
   font-size: clamp(1.125rem, 0.8364rem + 1.443vw, 2.568rem);
   width: 100%;
 }
 
-li.nav-about-me {
-  width: 19.17%;
+li {
+  width: 21.4%;
   height: 0;
 }
 
 .polaroid-wrapper {
   width: 100%;
-  padding-bottom: 159.5%;
+  padding-bottom: 147%;
   position: relative;
 }
 
@@ -188,6 +187,21 @@ li.nav-about-me {
   margin: 0% auto;
   position: relative;
   top: 8.64%;
+}
+
+.nav-name {
+  position: relative;
+  max-width: 360px;
+}
+
+@media (max-width: 700px) {
+  .polaroid-outside {
+    background-color: white;
+    width: 150px;
+    height: 239px;
+    position: absolute;
+    border-radius: 3%;
+  }
 }
 
 /*# sourceMappingURL=output.css.map */
