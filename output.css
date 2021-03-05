@@ -83,7 +83,7 @@ body {
   background-color: #e9eaef;
   font-family: Lekton;
   font-weight: 400;
-  font-size: 5vw;
+  font-size: 2.083vw;
   margin: 0;
 }
 
@@ -93,7 +93,7 @@ h1 {
 
 /*index body styling*/
 .index-body {
-  margin: 0;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
 }
@@ -101,6 +101,7 @@ h1 {
 .kim-title {
   order: -1;
   margin: 0;
+  position: relative;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -110,11 +111,11 @@ h1 {
 .kim-title h3 {
   margin: 0;
   text-align: right;
-  position: absolute;
+  position: relative;
   right: 11vw;
   top: 26vw;
   font-weight: normal;
-  font-size: 5.5vw;
+  font-size: clamp(1.25rem,0.7rem + 2.75vw, 4rem);
   color: #AB6254;
 }
 
@@ -133,11 +134,9 @@ h1 {
   color: #FFA899;
   font-family: "Palanquin";
   font-weight: 400;
-  font-size: 18vw;
+  font-size: clamp(3.63rem, 1.772rem + 9.29vw, 12.92rem);
   position: relative;
-  left: 8.1vw;
-  bottom: 0.28vw;
-  margin: 0;
+  left: clamp(1.63rem, 0.796rem + 4.17vw, 5.8rem);
   z-index: 1;
 }
 
@@ -145,21 +144,21 @@ h1 {
   color: #ED4C4C;
   font-family: "Londrina Outline";
   font-weight: 400;
-  font-size: 22vw;
+  font-size: clamp(4.31rem, 2.078rem + 11.6vw, 15.47rem);
   letter-spacing: 0.02em;
-  margin-top: 2.7vw;
+  margin-top: 0.128em;
   position: relative;
-  right: 8.1vw;
+  right: clamp(1.63rem, 0.796rem + 4.17vw, 5.8rem);
 }
 
 .nav-list {
   padding: 0px;
   margin: 0px;
-  display: inline-flex;
+  display: flex;
   flex-wrap: wrap;
   flex-direction: row;
   list-style-type: none;
-  font-size: 2.14vw;
+  font-size: clamp(1.125rem, 0.8364rem + 1.443vw, 2.568rem);
   width: 100%;
 }
 
@@ -189,24 +188,6 @@ li.nav-about-me {
   margin: 0% auto;
   position: relative;
   top: 8.64%;
-}
-
-@media (min-width: 1920px) {
-  .kim {
-    font-size: 345.6px;
-  }
-
-  .mckenna {
-    font-size: 422.4px;
-  }
-
-  .kim-title h3 {
-    font-size: 105.6px;
-  }
-
-  .kim-title {
-    max-width: 1920px;
-  }
 }
 
 /*# sourceMappingURL=output.css.map */
