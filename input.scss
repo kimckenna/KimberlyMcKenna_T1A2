@@ -90,6 +90,10 @@ body{
 h1{
     margin: 0;
 }
+ul{
+    margin: 0;
+    padding: 0;
+}
 /*index body styling*/
 .index-body{
     margin: 0 auto;
@@ -99,6 +103,7 @@ h1{
 .kim-title{
     order: -1;
     margin: 0;
+    padding: 1%;
     position: relative;
     display: flex;
     flex-direction: column;
@@ -106,11 +111,9 @@ h1{
     justify-items: center;
 }
 .kim-title h3{
-    margin: 0;
-    text-align: right;
+    margin: auto;
     position: relative;
-    right: 11vw;
-    top: 26vw;
+    top: 2%;
     font-weight: normal;
     font-size: clamp(1.25rem,0.7rem + 2.75vw, 4rem);
     color: #AB6254;
@@ -121,9 +124,6 @@ h1{
     justify-content: center;
     justify-items: center;
 }
-.name h1{
-        display: flex;
-}
 
 .kim{
     color: #FFA899;
@@ -133,6 +133,7 @@ h1{
     position: relative;
     left: clamp(1.63rem, 0.796rem + 4.17vw, 5.8rem);
     z-index: 1;
+    line-height: 1.51;
 }
 .mckenna{
     color: #ED4C4C;
@@ -140,20 +141,17 @@ h1{
     font-weight: 400;
     font-size: clamp(4.31rem, 2.078rem + 11.6vw, 15.47rem);
     letter-spacing: 0.02em;
-    margin-top: 0.128em;
     position: relative;
     right: clamp(1.63rem, 0.796rem + 4.17vw, 5.8rem);
 }
-
-
 .nav-list{
-    padding:0px;
-    margin: 0px;
+    list-style-type: none;
+    list-style-position: outside;
     display: flex;
     flex-wrap: wrap;
-    list-style-type: none;
-    font-size: clamp(1.125rem, 0.8364rem + 1.443vw, 2.568rem); 
     width: 100%;
+    align-items: center;
+    justify-content: center;
 }
 li{
     width: 21.4%;
@@ -161,8 +159,9 @@ li{
 }
 .polaroid-wrapper{
     width: 100%;
-    padding-bottom: 147%; 
-    position: relative;  
+    padding-bottom: 159%; 
+    position: relative; 
+    display: inline-block;
 }
 .polaroid-outside{
     background-color: white;
@@ -180,19 +179,24 @@ li{
     top: 8.64%;
 }
 .nav-name{ 
-    position: relative;
+    position: absolute;
     max-width: 360px;
+    margin: 16.5% 0% 0% 7.2%;
+    font-size: clamp(1.125rem, 0.8364rem + 1.443vw, 2.568rem);
 }
 @media (max-width: 700px){
     .polaroid-outside{
-        background-color: white;
         width: 150px;
         height: 239px;
-        position: absolute;
-        border-radius: 3%;
     }
 }
 
+@media (min-width: 1920px){
+    .li{
+        width: 410.875px;
+        height: 653.281px;
+    }
+}
 
 
 
