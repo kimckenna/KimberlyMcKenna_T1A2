@@ -104,7 +104,7 @@ ul{
 main.kim-title{
     order: -1;
     margin: 0;
-    padding: 1%;
+    padding: 6% 0;
     display: flex;
     flex-direction: column;
 }
@@ -112,9 +112,10 @@ main.kim-title{
     margin: auto;
     position: relative;
     top: 2%;
-    font-weight: normal;
+    font-weight: 400;
     font-size: clamp(1.25rem,0.7rem + 2.75vw, 4rem);
     color: #AB6254;
+    left: 16%;
 }
 .name{ 
     display: flex;
@@ -164,26 +165,35 @@ ul.nav-list{
     left: 0;
     right: 0;
     margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    box-shadow: rgba(146, 143, 155, 0.15) 0px 48px 100px 0px;
 }
 .about-me-polaroid{
     z-index: 4;
     top: 25%;
     transform: rotate(-10deg);
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    box-shadow:rgba(189, 192, 194, 0.3) 0px 1px 2px 0px, rgba(164, 165, 167, 0.15) 0px 2px 6px 2px;
 }
 .profess-details-polaroid{
     z-index: 3;
     top: 35%; 
     transform: rotate(-5deg);
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    box-shadow:rgba(189, 192, 194, 0.3) 0px 1px 2px 0px, rgba(164, 165, 167, 0.15) 0px 2px 6px 2px;
 }
 .blog-polaroid{
     z-index: 2;
     top: 45%;
     transform: rotate(10deg);
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    box-shadow:rgba(189, 192, 194, 0.3) 0px 1px 2px 0px, rgba(164, 165, 167, 0.15) 0px 2px 6px 2px;
 }
 .contact-polaroid{
     z-index: 1;
     top: 55%;
     transform: rotate(2deg);
+    box-shadow: rgba(206, 207, 207, 0.226) 0px 1px 2px 0px, rgba(108, 109, 110, 0.15) 0px 2px 6px 2px;
 }
 .polaroid-inside{
     background-color: #F5E4E4;
@@ -192,12 +202,18 @@ ul.nav-list{
     margin: 0% auto;
     position: relative;
     top: 8.64%;
+    box-shadow: rgba(36, 36, 36, 0.068) 0px 3px 5px;
+    box-shadow: rgba(201, 201, 206, 0.25) 0px 30px 60px -12px inset, rgba(248, 116, 116, 0.253) 0px 18px 36px -18px inset;
 }
 .nav-name{ 
     position: absolute;
     max-width: 360px;
     margin: 16.5% 0% 0% 7.2%;
     font-size: clamp(1.125rem, 0.8364rem + 1.443vw, 2.568rem);
+}
+
+a:visited{
+    color:#AB6254
 }
 
 @media (min-width: 700px){
