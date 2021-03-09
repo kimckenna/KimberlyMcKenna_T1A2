@@ -1,16 +1,36 @@
 @import "index-nav.scss";
 @import "fonts.scss";
-@import "index-main.scss";
+@import "index.scss";
+@import "nav.scss";
 
 body{
-    background-color: #eceaed;
+    background-color: #fff;
     font-family: Lekton;
     font-weight: 400;
     margin: 5px 0;
     padding: 0;
 } 
+header{
+    background-color: #fce7e6;
+}
 h1{
     margin: 0;
+    color: #f63309;
+    font-family: 'Londrina Outline';
+    font-weight: 400;
+}
+h2{
+    margin:0;
+    color: #ff9fa0;
+    font-family: 'Palanquin';
+    font-weight: 400;
+}
+main{ 
+    max-width: 1800px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
 footer{
     width: 100%;
@@ -31,6 +51,7 @@ footer{
         }
     }
 }
+
 
 
 

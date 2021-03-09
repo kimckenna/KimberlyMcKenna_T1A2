@@ -1,4 +1,7 @@
 .index-body{
+    background-color: #eceaed;
+}
+.index-body-div{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -39,9 +42,6 @@ main.kim-title{
     line-height: 1.51;
 }
 .mckenna{
-    color: #f63309;
-    font-family: 'Londrina Outline';
-    font-weight: 400;
     font-size: clamp(4.31rem, 2.078rem + 11.6vw, 15.47rem);
     letter-spacing: 0.02em;
     position: relative;
