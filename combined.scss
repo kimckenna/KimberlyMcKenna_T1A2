@@ -12,7 +12,7 @@ body{
     background-color: #fff;
     font-family: Lekton;
     font-weight: 400;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
 } 
 h1{
@@ -27,6 +27,9 @@ h2{
     font-family: 'Palanquin';
     font-weight: 400;
 }
+header{
+    z-index: 1;
+}
 main{ 
     max-width: 1920px;
     display: flex;
@@ -34,6 +37,10 @@ main{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    z-index: 4;
+}
+footer{
+    z-index: 1;
 }
 .info-me{
     max-width: 50%;
