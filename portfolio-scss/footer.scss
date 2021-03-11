@@ -1,22 +1,32 @@
 footer{
     width: 100%;
-    position: absolute;
+    position: fixed;
     bottom:  0;
     z-index: 4;
 
     .social-icons{
-        width: 100%;          
+        position: relative;
+        max-height: 100px;
+        max-width: 1920px;       
         display: flex;
         justify-content: flex-end;
+        padding: 10px;
 
         a{
             width: 8%;
-            padding: 2%;
-            margin: 0 1% 0 0;
+            max-height: 100%;
+            display: flex;
+            justify-content: center;
+            margin: 0 10px;
         }
-        
+
         img{
             max-width: 100%;
+            max-height: 90px;
         }
     }
+}
+
+.footer-color{
+    background-color: $light-color;
 }

@@ -1,5 +1,5 @@
 .index-body{
-    background-color: #eceaed;
+    background-color: $neutral-color;
 }
 .index-body-div{
     display: flex;
@@ -32,7 +32,7 @@ main.kim-title{
     justify-items: center;
 }
 .kim{
-    color: #ff9fa0;
+    color: $h2-color;
     font-family: 'Palanquin';
     font-weight: 400;
     font-size: clamp(3.63rem, 1.772rem + 9.29vw, 12.92rem);
