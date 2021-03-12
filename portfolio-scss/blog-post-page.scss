@@ -31,6 +31,7 @@
     }
     .writing{
         margin: 0 auto;
+        padding: 2vh;
         width: 80vw;
         max-width: 900px;
     }
@@ -44,11 +45,13 @@
     justify-content: center;
     text-align: center;
     .related-title{
-        margin-bottom: 10px;
+        padding-bottom: 4vh;
     }
 }
 
 .blog-posts-links{
+    margin: 0 auto;
+    padding-bottom: 6.5vh;
     width: 90vw;
     max-width: 1200px;
     display: flex;
@@ -60,24 +63,15 @@
         .post img{
             width: 15vh;
             max-width: 250px;
-            opacity: 30%;
+            opacity: 70%;
             margin: 0 10px;
         }
         .post img:hover{
             opacity: 100%;
-            width: 80%;
         }
-        /*a {
-            text-decoration: none;
-        }*/
-        h3 {
+        /*h3{
+            font-family: "Londrina Shadow";
             position: relative;
-            z-index: 999;
-            bottom: 75%;
-        }
+        }*/
     }
-}
-
-.post img:hover{
-    opacity: 100%;
 }

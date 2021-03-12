@@ -1,8 +1,9 @@
 /*pages specific header formatting*/
 .page-header{
     background-color: $light-color;
-    position: relative;
+    position: fixed;
     z-index: 1;
+    width: 100%;
 }
 
 /*pages content */
