@@ -6,17 +6,28 @@
 }
 
 /*pages content */
-
-/*height variables*/
-
-
-.page-content{
+.page-title{
+    text-align: center;
+}
+.blog-content{
     margin: 0 auto;
     width: 100vw;
     max-width: 1200px;
+    z-index: 0;
+}
+
+.page-content{  
+    margin: 0 auto;
+    padding: 15px;
+    width: 100vw;
+    max-width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 15px;
+    position: relative;
+    z-index: 0;
     box-sizing: border-box;
     /*background-color: grey*/
 }

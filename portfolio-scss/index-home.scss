@@ -3,7 +3,8 @@
     padding: 10px;
     background-color: $neutral-color;
 }
-.index-body-div{
+.index-body-div,
+.blog-body-div{
     display: flex;
     flex-direction: column;
     justify-content: center;
