@@ -2,7 +2,7 @@ footer{
     width: 100%;
     position: fixed;
     bottom:  0;
-    z-index: 4;
+    z-index: 999;
 
     .social-icons{
         position: relative;
@@ -23,16 +23,17 @@ footer{
         img{
             max-width: 100%;
             max-height: 90px;
-            background-color: $neutral-color;
+            background-color: $primary-color-1;
             border-radius: 50%;
         }
     }
 }
 
-.footer-color{
+/*.footer-color{
     background-color: $light-color;
 
 }
+*/
 
 /*blog footer changes*/
 .blog-footer{
