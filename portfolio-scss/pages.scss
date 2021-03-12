@@ -39,8 +39,10 @@
 
 /* about me*/
 .info-me{
-    max-width: 50%;
+    max-width: 75%;
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+    text-align: center;
 }
