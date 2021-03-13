@@ -114,7 +114,7 @@ Outside the accessibilty of my website a couple other issues stem from my images
 - Version control maintained with Git & Github.
 - Deployed with Subresource Integrity and hosted using Netlify.
 
-## REASOURCES
+## RESOURCES
 
 #### Slideshow Colour Scheme Image - Randal Ford
 http://www.artnet.com/artists/randal-ford/pink-cockatoo-a-0B09vPlF__xtovCVsTKXOw2

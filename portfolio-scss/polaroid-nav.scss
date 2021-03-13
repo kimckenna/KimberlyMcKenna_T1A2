@@ -3,7 +3,7 @@
 .blog-body-div{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    /*justify-content: center;*/
 }
 ul{
     margin: 0;
@@ -127,10 +127,10 @@ a, a:visited, a:active{
         max-height: 401.484px;
     }
     .home-polaroid-wrapper{
-        width: 100%;
+        /*width: 100%;*/
         padding-bottom: 159%; 
         position: relative; 
-        margin: 0 auto;
+        /*margin: 0 auto;*/
     }
     .blog-polaroid-inside{
          img{
@@ -177,7 +177,7 @@ a, a:visited, a:active{
     .home-nav {
         position: relative;
         top: -130px;
-        max-width: 1400px;
+        max-width: 1000px;
         margin: 0 auto;
     }
 }

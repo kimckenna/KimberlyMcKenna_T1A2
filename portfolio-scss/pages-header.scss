@@ -1,11 +1,16 @@
 /*header basics*/
 .page-header,
 .blog-header{
-    background-color: $primary-color-1;
+    background-color: $light-color;
+    border-bottom: 1vh solid $primary-color-1;
     position: fixed;
     top: 0;
     width: 100%;
     z-index: 999;
+}
+/*blog post header change of bottom-border color*/
+.blog-header{
+    border-bottom: 1vh solid $primary-color-2;
 }
 
 /*hamburger menu code*/
@@ -105,13 +110,6 @@
         transform: rotate(30deg);
     }
 }
-/*change colour of pages header background ------ REMOVE IF KEEP BACKGROUND SAME*/ 
-/*blog color*/
-.blog-nav{
-    .menu{
-        background-color: rgba(251, 245, 247, 0.95);
-    }
-}
 
 /*home icon code*/
 .home-icon{
@@ -122,9 +120,9 @@
         position: relative;
         left: 15%;
         z-index: 999;
-        
     }
 }
+
 
 @media (max-width: 900px){
     #menu-wrapper{

@@ -1,8 +1,3 @@
-/*blog post header change of color*/
-.blog-header{
-    background-color: $primary-color-2;
-}
-/* need to change the color of the home logo - kim to white*/
 
 /* basic article format used for 'about' section as well*/
 
@@ -12,6 +7,13 @@
     text-align: center;
     width: 90vw;
     max-width: 100%;
+    .posted-date{
+        text-align: left;
+        font-size: 12px;
+        position: relative;
+        display: inline;
+        right: 15vw;
+    }
     div{
         max-width: 100vw;
         max-height: 50vh;
@@ -70,7 +72,9 @@
         }
         p{
             margin: 0;
+            padding: 0 1vw;
             margin-bottom: 12px;
+            font-size: clamp(1.125rem, 0.8364rem + 1.443vw, 2.568rem);
         }
     }
 }
