@@ -8,7 +8,11 @@ https://www.kimckenna.com
 
 ## Purpose
 
+## Target Audience
+
 ## Sitemap
+
+![portfolio sitemap](./readme-images/T1A2-sitemap.pdf)
 
 ## Page Features
 
@@ -49,7 +53,7 @@ https://www.kimckenna.com
 
 ### Tertiary Pages:
 
-#### Blog Posts: Hello, Reach Out, Work/Life, Covid Safe?, Perspective
+#### Blog Posts (1-5): 
 - Secondary & Tertiary Page Header
 - Social Icon Links
 - Basic Article 
@@ -95,14 +99,11 @@ https://www.kimckenna.com
 - I decided to include a contact form that hopefully links to netlify after beginning the build of my website. 
 - I chose to keep the form clean and simple; utilising the existing color scheme and link formating for the send button. The form does impact my accessibility as I don't label the input fields as I opted for placeholder text. This is likely something that could be remediated when using JavaScript. 
 
-## Target Audience
-
-
 ## Tech Stack
 
-Website built with HTML & CSS. 
-Version control maintained with Git & Github.
-Deployed and hosted using Netlify.
+- Website built with HTML & CSS. 
+- Version control maintained with Git & Github.
+- Deployed and hosted using Netlify.
 
 ## Final Website 
 
@@ -114,11 +115,11 @@ http://www.artnet.com/artists/randal-ford/pink-cockatoo-a-0B09vPlF__xtovCVsTKXOw
 #### Blog Images - Pexels
 https://www.pexels.com/
 
-'Hello!' Photo by Marco Sebastian Mueller from Pexels
-'Reach Out' Photo by Anna Shvets from Pexels
-'Work/Life' Photo by Daria Shevtsova from Pexels
-'Covid Safe?' Photo by cottonbro from Pexels
-'Perspective' Photo by Waldemar Nowak from Pexels
+- 'Hello!' Photo by Marco Sebastian Mueller from Pexels
+- 'Reach Out' Photo by Anna Shvets from Pexels
+- 'Work/Life' Photo by Daria Shevtsova from Pexels
+- 'Covid Safe?' Photo by cottonbro from Pexels
+- 'Perspective' Photo by Waldemar Nowak from Pexels
 
 #### Social Media Icons - Lanan Illustration
 https://www.iconfinder.com/iconsets/social-aquicons
@@ -129,10 +130,10 @@ https://www.figma.com/file/6flEPnOT0FVuUU7pwEYz3k/T1A2--Portfolio?node-id=0%3A1
 #### Fonts - Google Fonts
 https://fonts.google.com/
 
-Body: 'Lekton'
-Buttons/ Links: 'Londrina Shadow
-Secondary headings: 'Palanquin'
-Primary Headings: 'Londrina Outline'
+- Body: 'Lekton'
+- Buttons/ Links: 'Londrina Shadow
+- Secondary headings: 'Palanquin'
+- Primary Headings: 'Londrina Outline'
 
 #### Hamburger Menu - Tyler Potts
 https://www.youtube.com/watch?v=kKRpeFk613I
