@@ -1,3 +1,5 @@
+/*footter formating -fixing to the bottom of screen with no background color*/
+
 footer{
     width: 100%;
     position: fixed;
@@ -19,7 +21,7 @@ footer{
             justify-content: center;
             margin: 0 10px;
         }
-
+        /*background color added to images*/
         img{
             max-width: 100%;
             max-height: 90px;
@@ -29,7 +31,7 @@ footer{
     }
 }
 
-/*blog footer changes*/
+/*blog footer changes for the color*/
 .blog-footer{
     .social-icons img{
         background-color: $primary-color-2;  

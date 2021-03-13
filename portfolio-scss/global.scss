@@ -34,6 +34,7 @@ a{
 a:hover{
     color: $primary-color-2;
 }
+/*body font increase at 700px*/
 @media (min-width: 700px){
     body{
         font-size: 18px;

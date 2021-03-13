@@ -1,14 +1,10 @@
+/*formatting for home page as different to all others*/
 .index-body{
     margin: 0;
     padding: 10px;
     background-color: $neutral-color;
 }
-.index-body-div,
-.blog-body-div{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
+
 /*kim title - kimckenna & .dev-student */
 main.kim-title{
     order: -1;

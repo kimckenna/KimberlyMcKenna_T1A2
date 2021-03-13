@@ -1,3 +1,10 @@
+
+.index-body-div,
+.blog-body-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 ul{
     margin: 0;
     padding: 0;
@@ -130,10 +137,12 @@ a, a:visited, a:active{
             width: 100%;
         }
     }
+    /*index page - title*/
     main.kim-title{
         margin: 0 auto;
     }
-    /* blog specific media queries - reduces top position movement*/
+    /*blog post specific*/
+    /* individual blog specific media queries - reduces top position movement & adds rotation to blog 1, 2, 3*/
     .blog-1-polaroid{
         z-index: 5;
         top: 12.5%;

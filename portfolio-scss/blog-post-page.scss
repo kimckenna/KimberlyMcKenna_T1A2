@@ -1,12 +1,10 @@
-/*blog post header changes*/
+/*blog post header change of color*/
 .blog-header{
     background-color: $primary-color-2;
-
 }
 /* need to change the color of the home logo - kim to white*/
 
-/* article
-- used for about me section as well*/
+/* basic article format used for 'about' section as well*/
 
 .basic-article{
     margin: 0;
@@ -37,7 +35,8 @@
     }
 }
 
-/*related posts links*/
+/*related posts links/pictures formating*/
+
 .related-blog-posts{
     position: relative;
     max-width: 1200px;
