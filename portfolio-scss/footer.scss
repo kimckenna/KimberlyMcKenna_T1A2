@@ -31,9 +31,15 @@ footer{
     }
 }
 
-/*blog footer changes for the color*/
+/*background color changes*/
 .blog-footer{
     .social-icons img{
         background-color: $primary-color-2;  
+    }
+}
+
+.index-footer{
+    .social-icons img{
+        background-color: $neutral-color;  
     }
 }

@@ -34,7 +34,7 @@ main.kim-title{
 }
 .kim{
     color: $h2-color;
-    font-family: 'Palanquin';
+    font-family: 'Palanquin', sans-serif;
     font-weight: 400;
     font-size: clamp(3.63rem, 1.772rem + 9.29vw, 12.92rem);
     position: relative;
