@@ -110,10 +110,10 @@ Outside the accessibilty of my website a couple other issues stem from my images
 
 #### Index Page
 
-<p float="center">
-  <img src="./readme-images/index-desktop.png" height="500" />
-  <img src="./readme-images/index-tablet.png" height="350" /> 
-  <img src="./readme-images/index-mobile.png" height="350" />
+<p>
+  <img align="center" src="./readme-images/index-desktop.png" height="500" />
+  <img align="center" src="./readme-images/index-tablet.png" height="500" /> 
+  <img align="center" src="./readme-images/index-mobile.png" height="500" />
 </p>
 
 #### About Page
