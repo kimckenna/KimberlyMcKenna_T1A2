@@ -1,3 +1,21 @@
+commit ddd2b0c15e8cee1805a348ef25905090430f4c56
+Author: Kim McKenna <kimberlymckenna@hotmail.co.uk>
+Date:   Sun Mar 14 21:00:25 2021 +1100
+
+    fixed SRI as file structure changed, copied code from deleted output.css and created new file.
+
+commit 6a5df7ce9c25669b00e8813db1039fd03b5e3536
+Author: Kim McKenna <kimberlymckenna@hotmail.co.uk>
+Date:   Sun Mar 14 20:54:54 2021 +1100
+
+    css file
+
+commit f8fc8535c4ac5ea3af5ab0dd73db4f26b1ebea47
+Author: Kim McKenna <kimberlymckenna@hotmail.co.uk>
+Date:   Sun Mar 14 20:19:58 2021 +1100
+
+    changed file structure for submission
+
 commit 5574e7dd133da4f7f325ee838a02acdb4fd460f3
 Author: Kim McKenna <kimberlymckenna@hotmail.co.uk>
 Date:   Sun Mar 14 20:06:24 2021 +1100
