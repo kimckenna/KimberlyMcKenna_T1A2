@@ -49,8 +49,15 @@ ul.home-nav-list{
 .home-nav-name{ 
     position: absolute;
     max-width: 360px;
-    margin: 22% 0% 0% 10%;
+    margin: 16% 0% 0% 10%;
     font-size: clamp(1.125rem, 0.8364rem + 1.443vw, 2.568rem);
+
+    .date{
+        display: block;
+        color: $title-color;
+        font-family: "Lekton", sans-serif;
+        font-size: 10px;
+    }
 }
 
 
