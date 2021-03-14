@@ -108,6 +108,42 @@ Outside the accessibilty of my website a couple other issues stem from my images
 
 ## FINAL WEBSITE
 
+#### Index Page
+
+![portfolio index page desktop]()
+![portfolio index page tablet]()
+![portfolio index page mobile]()
+
+#### About Page
+
+![portfolio about page desktop]()
+![portfolio about page tablet]()
+![portfolio about page mobile]()
+
+#### Work Page 
+
+![portfolio work page desktop]()
+![portfolio work page tablet]()
+![portfolio work page mobile]()
+
+#### Blog Page 
+
+![portfolio blog page desktop]()
+![portfolio blog page tablet]()
+![portfolio blog page mobile]()
+
+#### Connect Page 
+
+![portfolio connect page desktop]()
+![portfolio connect page tablet]()
+![portfolio connect page mobile]()
+
+#### Blog Post Pages 
+
+![portfolio blog post page desktop]()
+![portfolio blog post page tablet]()
+![portfolio blog post mobile]()
+
 ## TECH STACK
 
 - Website built with HTML & CSS (utilising SCSS).
