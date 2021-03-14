@@ -79,17 +79,19 @@
                 margin: 0;
                 padding: 20px;
                 cursor: pointer;
-                box-sizing: 100px;
+                /*box-sizing: 100px;*/
                 border-bottom: 2px solid transparent;
                 a{
                     position: relative;
                     text-decoration: none;
+                    font-size: 3em;
                 }
                 a:hover{
                     color: $primary-color-2;
                 }
             }
         }
+        
     }
     /*to have menu appear*/
     .toggle:checked + .polaroid-wrapper + .menu{

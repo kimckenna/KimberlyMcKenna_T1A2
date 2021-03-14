@@ -5,8 +5,8 @@
     text-align: center;
     width: 80vw;
     max-width: 1000px;
-    
 }
+
 /*portfolio section*/
 .portfolio{
     margin-top: 2vh;
@@ -16,10 +16,10 @@
 .portfolio-images{
     width: 90vw;
     max-width: 1200px;
-    display: flex;
+    /*display: flex;*/
     flex-direction: row;
     flex-wrap: wrap;
-    align-items: space-around;
+    /*align-items: space-around;*/
     justify-content: center;
     img{
         width: 15vh;
@@ -27,4 +27,9 @@
         border: black 1px solid ;
         margin: 10px;
     }
+}
+
+/* larger link font-size*/
+.link-larger-heading{
+    font-size: 3em;
 }
