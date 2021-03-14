@@ -11,13 +11,13 @@ body{
 }
 h1{
     margin: 0;
-    color: $h1-color;
+    color: $title-color;
     font-family: 'Londrina Outline', sans-serif;
     font-weight: 400;
 }
 h2{
     margin:0;
-    color: $h2-color;
+    color: $title-color;
     font-family: 'Palanquin', sans-serif;
     font-weight: 300;
     font-size: clamp(1.25rem,0.7rem + 2.75vw, 4rem);
