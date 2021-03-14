@@ -5,6 +5,7 @@
 https://www.kimckenna.com
 
 ### Github Repository:
+https://github.com/kimckenna/T1A2-portfolio
 
 ## PURPOSE
 
@@ -18,7 +19,7 @@ This design got me excited for what I could do next and quite honestly what I co
 
 ## SITEMAP
 
-![portfolio sitemap](https://github.com/kimckenna/T1A2-portfolio/blob/imac-main/docs/sitemap-image.png)
+![portfolio sitemap](./docs/sitemap-image.png)
 
 ## PAGES & FEATURES
 
@@ -107,57 +108,57 @@ All elements are responsive in all screens from mobile to desktop.
 #### Index Page
 
 <p float="left" align="center">
-  <img src="./docs/index-desktop.png" height="500" />
-  <img src="./docs/index-tablet.png" height="500" /> 
-  <img src="./docs/index-mobile.png" height="500" />
+  <img src="./docs/index-desktop.png" alt="index page desktop" height="500" />
+  <img src="./docs/index-tablet.png" alt="index page tablet" height="500" /> 
+  <img src="./docs/index-mobile.png" alt="index page mobile" height="500" />
 </p>
 
 #### About Page
 
 <p float="left" align="center">
-  <img src="./docs/about-desktop.png" height="500" />
-  <img src="./docs/about-tablet.png" height="500" /> 
-  <img src="./docs/about-mobile.png" height="500" />
+  <img src="./docs/about-desktop.png" alt="about page desktop" height="500" />
+  <img src="./docs/about-tablet.png" alt="about page tablet" height="500" /> 
+  <img src="./docs/about-mobile.png" alt="about page mobile" height="500" />
 </p>
 
 #### Work Page 
 
 <p float="left" align="center">
-  <img src="./docs/work-desktop.png" height="500" />
-  <img src="./docs/work-tablet.png" height="500" /> 
-  <img src="./docs/work-mobile.png" height="500" />
+  <img src="./docs/work-desktop.png" alt="work page desktop" height="500" />
+  <img src="./docs/work-tablet.png" alt="work page tablet" height="500" /> 
+  <img src="./docs/work-mobile.png" alt="work page mobile" height="500" />
 </p>
 
 #### Blog Page 
 
 <p float="left" align="center">
-  <img src="./docs/blog-desktop.png" height="500" />
-  <img src="./docs/blog-tablet.png" height="500" /> 
-  <img src="./docs/blog-mobile.png" height="500" />
+  <img src="./docs/blog-desktop.png" alt="blog page desktop" height="500" />
+  <img src="./docs/blog-tablet.png" alt="blog page tablet" height="500" /> 
+  <img src="./docs/blog-mobile.png" alt="blog page mobile" height="500" />
 </p>
 
 #### Connect Page 
 
 <p float="left" align="center">
-  <img src="./docs/connect-desktop.png" height="500" />
-  <img src="./docs/connect-tablet.png" height="500" /> 
-  <img src="./docs/connect-mobile.png" height="500" />
+  <img src="./docs/connect-desktop.png" alt="connect page desktop" height="500" />
+  <img src="./docs/connect-tablet.png" alt="connect page tablet" height="500" /> 
+  <img src="./docs/connect-mobile.png" alt="connect page mobile" height="500" />
 </p>
 
 #### Blog Post Pages 
 
 <p float="left" align="center">
-  <img src="./docs/blog-post1-desktop.png" height="850" />
-  <img src="./docs/blog-post1-tablet.png" height="900" /> 
-  <img src="./docs/blog-post1-mobile.png" height="900" />
+  <img src="./docs/blog-post1-desktop.png" alt="blog post page desktop" height="850" />
+  <img src="./docs/blog-post1-tablet.png" alt="blog post page tablet" height="900" /> 
+  <img src="./docs/blog-post1-mobile.png" alt="blog post page mobile" height="900" />
 </p>
 
 #### Hamburger Navigation
 
 <p float="left" align="center">
-  <img src="./docs/hamburger-nav-desktop.png" height="500" />
-  <img src="./docs/hamburger-nav-tablet.png" height="500" /> 
-  <img src="./docs/hamburger-nav-mobile.png" height="500" />
+  <img src="./docs/hamburger-nav-desktop.png" alt="Hamburger Navigation desktop" height="500" />
+  <img src="./docs/hamburger-nav-tablet.png" alt="Hamburger Navigation tablet" height="500" /> 
+  <img src="./docs/hamburger-nav-mobile.png" alt="Hamburger Navigation mobile" height="500" />
 </p>
 
 ## TECH STACK
