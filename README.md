@@ -19,7 +19,7 @@ This design got me excited for what I could do next and quite honestly what I co
 
 ## SITEMAP
 
-![portfolio sitemap]<img src="./docs/sitemap-image.png"/>
+![portfolio sitemap](./docs/sitemap-image.png)
 
 ## PAGES & FEATURES
 
