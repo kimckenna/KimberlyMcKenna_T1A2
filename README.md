@@ -110,7 +110,7 @@ Outside the accessibilty of my website a couple other issues stem from my images
 
 #### Index Page
 
-<p float="left" align="center" margin="20">
+<p float="left" align="center">
   <img src="./readme-images/index-desktop.png" height="500" />
   <img src="./readme-images/index-tablet.png" height="500" /> 
   <img src="./readme-images/index-mobile.png" height="500" />
@@ -118,27 +118,51 @@ Outside the accessibilty of my website a couple other issues stem from my images
 
 #### About Page
 
-![portfolio about page desktop](./readme-images/about-desktop.png)![portfolio about page tablet](./readme-images/about-tablet.png)![portfolio about page mobile](./readme-images/about-mobile.png)
+<p float="left" align="center">
+  <img src="./readme-images/about-desktop.png" height="500" />
+  <img src="./readme-images/about-tablet.png" height="500" /> 
+  <img src="./readme-images/about-mobile.png" height="500" />
+</p>
 
 #### Work Page 
 
-![portfolio work page desktop](./readme-images/work-desktop.png)![portfolio work page tablet](./readme-images/work-tablet.png)![portfolio work page mobile](./readme-images/work-mobile.png)
+<p float="left" align="center">
+  <img src="./readme-images/work-desktop.png" height="500" />
+  <img src="./readme-images/work-tablet.png" height="500" /> 
+  <img src="./readme-images/work-mobile.png" height="500" />
+</p>
 
 #### Blog Page 
 
-![portfolio blog page desktop](./readme-images/blog-desktop.png)![portfolio blog page tablet](./readme-images/blog-tablet.png)![portfolio blog page mobile](./readme-images/blog-mobile.png)
+<p float="left" align="center">
+  <img src="./readme-images/blog-desktop.png" height="500" />
+  <img src="./readme-images/blog-tablet.png" height="500" /> 
+  <img src="./readme-images/blog-mobile.png" height="500" />
+</p>
 
 #### Connect Page 
 
-![portfolio connect page desktop](./readme-images/connect-desktop.png)![portfolio connect page tablet](./readme-images/connect-tablet.png)![portfolio connect page mobile](./readme-images/connect-mobile.png)
+<p float="left" align="center">
+  <img src="./readme-images/connect-desktop.png" height="500" />
+  <img src="./readme-images/connect-tablet.png" height="500" /> 
+  <img src="./readme-images/connect-mobile.png" height="500" />
+</p>
 
 #### Blog Post Pages 
 
-![portfolio blog post page desktop](./readme-images/blog-post1-desktop.png)![portfolio blog post page tablet](./readme-images/blog-post1-tablet.png)![portfolio blog post mobile](./readme-images/blog-post1-mobile.png)
+<p float="left" align="center">
+  <img src="./readme-images/blog-post1-desktop.png" height="500" />
+  <img src="./readme-images/blog-post1-tablet.png" height="500" /> 
+  <img src="./readme-images/blog-post1-mobile.png" height="500" />
+</p>
 
 #### Hamburger Navigation
 
-![portfolio hamburger navigation desktop](./readme-images/hamburger-nav-desktop.png)![portfolio hamburger navigation tablet](./readme-images/hamburger-nav-tablet.png)![portfolio hamburger navigation mobile](./readme-images/hamburger-nav-mobile.png)
+<p float="left" align="center">
+  <img src="./readme-images/hamburger-nav-desktop.png" height="500" />
+  <img src="./readme-images/hamburger-nav-tablet.png" height="500" /> 
+  <img src="./readme-images/hamburger-nav-mobile.png" height="500" />
+</p>
 
 ## TECH STACK
 
